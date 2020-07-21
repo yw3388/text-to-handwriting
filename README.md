@@ -6,6 +6,9 @@
 
 ## 🌠 Output
 https://github.com/yw3388/text-to-handwriting/blob/master/generated.pdf/ 
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+
+
 
 
 
