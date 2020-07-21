@@ -5,6 +5,8 @@
 </p>
 
 ## 🌠 Output
+https://github.com/yw3388/text-to-handwriting/blob/master/generated.pdf/ 
+
 
 
 <img width="400" alt="Sample image of output" src="sample.jpeg" />
